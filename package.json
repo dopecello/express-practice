@@ -1,0 +1,26 @@
+{
+  "name": "express-practice",
+  "version": "1.0.0",
+  "description": "expressJS practice server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dopecello/express-practice.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "William Locke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dopecello/express-practice/issues"
+  },
+  "homepage": "https://github.com/dopecello/express-practice#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
